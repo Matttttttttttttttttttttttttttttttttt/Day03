@@ -1,2 +1,3 @@
 # Day03
-Language party day 3, R language
+On the third day, we learned about R. A great tool, which i will find useful to keep track of food supplies and medicine. But the food is getting low and my vision is getting blurry, i must hold on. There are two days left, my mind is telling me yes, but my body, my body... 
+I don't know if i'll be able to hold on... (smh) 
